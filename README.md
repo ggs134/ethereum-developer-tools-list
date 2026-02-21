@@ -326,6 +326,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [OpenEthereum](https://github.com/openethereum/openethereum) - Rust client, formerly called Parity
 * [Aleth](https://github.com/ethereum/aleth) - C++ client
 * [Nethermind](https://github.com/NethermindEth/nethermind) - .NET Core client
+* [py-ethclient](https://github.com/tokamak-network/py-ethclient) - Python execution client built from scratch — EVM, RLPx, eth/68, snap/1, full sync, snap sync, Engine API, and JSON-RPC
 * [Infura](https://infura.io/) - A managed service providing Ethereum client standards-compliant APIs
 * [Trinity](https://trinity.ethereum.org/) - Python client using [py-evm](https://github.com/ethereum/py-evm)
 * [Ethereumjs](https://github.com/ethereumjs/ethereumjs-client) - JS client using [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm)
